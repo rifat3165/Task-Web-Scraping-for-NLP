@@ -13,8 +13,9 @@ Note 2 : We expect you to be creative in addressing the challenge. Therefore, us
 
 Extra Credit 1:
 Add a new column name poem content in the dataframe. For a given poet, this column will contain the entire poem as a string.
+
 Extra Credit 2:
-Remove comma, bangla dari (,|) if they appear in the text or extracted data
-Remove semi-colon, exclamatory mark(;!) if they appear in the extracted data
-Remove dash of various types (-) if they appear in the extracted data
-Remove unicode characters if they appear in the extracted data
+1- Remove comma, bangla dari (,|) if they appear in the text or extracted data.
+2- Remove semi-colon, exclamatory mark(;!) if they appear in the extracted data.
+3- Remove dash of various types (-) if they appear in the extracted data.
+4- Remove unicode characters if they appear in the extracted data.
